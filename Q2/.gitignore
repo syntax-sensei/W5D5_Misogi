@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+temp.txt
+
+# Database journal files
+*.db-journal
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/ 
